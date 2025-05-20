@@ -21,6 +21,9 @@ New features and improvements are continuously being added, along with ongoing b
 - Firebase Authentication
 - Firebase Firestore Database
 
+Apk File
+https://drive.google.com/file/d/1OgZ5g02dEPWSNvbxu3M5mHMbH2Qu3l9K/view?usp=drive_link
+
 Screenshots
 ![image](https://github.com/user-attachments/assets/9e96d495-eb15-40f5-b83f-681cb0cf07b0)
 ![image](https://github.com/user-attachments/assets/20277014-b2ed-419f-ae89-7efdbf76ba0b)
